@@ -82,6 +82,7 @@
 - [Raxxanterax](https://www.youtube.com/@Raxxanterax) - Raxxanterax Youtube Channel
 - [Kripparrian](https://www.youtube.com/@Kripparrian) - Kripparrian Youtube Channel
 - [echohack](https://www.youtube.com/@echohack) - echohack Youtube Channel
+- [vigiabr](https://www.youtube.com/@vigiabr) - Jogatinas Saudábeis Youtube Channel
 
 ## Contribute
 
