@@ -69,6 +69,9 @@
 - [Pure Diablo Interactive Map](https://diablo4.purediablo.com/map/) - Pure Diablo Interactive Map
 - [Diablo Fans Interactive Map](https://www.diablofans.com/zones/d4/1-sanctuary) - Diablo Fans Interactive Map
 
+## Tier Lists
+- [Nightmare Dungeon Tier List](https://docs.google.com/spreadsheets/u/1/d/143tXzN_7-yoQCy7QEjo924UT2kWqH1VhWyXEsOvlwgA/htmlview?usp=sharing) - @wudijo Nightmare Dungeon Tier List
+
 ## Youtube Channels
 - [Wudijo](https://www.youtube.com/@wudijo) - Wudijo Youtube Channel
 - [Rhykker](https://www.youtube.com/user/Rhykker) - Rhykker Youtube Channel
