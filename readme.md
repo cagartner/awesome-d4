@@ -72,6 +72,10 @@
 ## Tier Lists
 - [Nightmare Dungeon Tier List](https://docs.google.com/spreadsheets/u/1/d/143tXzN_7-yoQCy7QEjo924UT2kWqH1VhWyXEsOvlwgA/htmlview?usp=sharing) - @wudijo Nightmare Dungeon Tier List
 
+## Trading
+- [Diablo 4 Marketplace](https://diablotrade.gg/) - Site to browse and post listings for items, turns screenshots into listings
+- [Sanctuary - Diablo 4 Community Discord](https://discord.gg/diablo4#discord) - Sections for softcore and hardcore trading
+
 ## Youtube Channels
 - [Wudijo](https://www.youtube.com/@wudijo) - Wudijo Youtube Channel
 - [Rhykker](https://www.youtube.com/user/Rhykker) - Rhykker Youtube Channel
