@@ -18,6 +18,7 @@
   - [Item Databases](#item-databases)
   - [Event Trackers](#event-trackers)
   - [Interactive Maps](#interactive-maps)
+  - [Overlays](#overlays)
 - [Contribute](#contribute)
 
 ## Official Links
@@ -62,12 +63,16 @@
 - [Event Tracker](https://diablo4.life/trackers/overview) - Diablo4.life Event Tracker helps to identify which event is currently active and when the next event will start.
 - [Helltides Event Tracker](https://helltides.com/) - Helltides Event Tracker helps to identify which event is currently active and when the next event will start.
 
-## Interactive Maps
+### Interactive Maps
 - [D4 Builds Interactive Map](https://d4builds.gg/map/) - D4 Builds Interactive Map
 - [Map Genie Interactive Map](https://mapgenie.io/diablo-4/maps/sanctuary) - Map Genie Interactive Map
 - [D4 Planner Interactive Map](https://d4planner.io/map) - D4 Planner Interactive Map
 - [Pure Diablo Interactive Map](https://diablo4.purediablo.com/map/) - Pure Diablo Interactive Map
 - [Diablo Fans Interactive Map](https://www.diablofans.com/zones/d4/1-sanctuary) - Diablo Fans Interactive Map
+
+### Overlays
+- [Diablo 4 Companion](https://github.com/josdemmers/Diablo4Companion) - Specify your prefered affixes for each gear slot and monitor them in game
+- [Diablo Dungeon Timer](https://github.com/Shaydera/DiabloDungeonTimer) - Software which automatically tracks and times all dungeons entered in Diablo IV
 
 ## Tier Lists
 - [Nightmare Dungeon Tier List](https://docs.google.com/spreadsheets/u/1/d/143tXzN_7-yoQCy7QEjo924UT2kWqH1VhWyXEsOvlwgA/htmlview?usp=sharing) - @wudijo Nightmare Dungeon Tier List
