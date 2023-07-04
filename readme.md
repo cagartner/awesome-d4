@@ -18,6 +18,9 @@
   - [Item Databases](#item-databases)
   - [Event Trackers](#event-trackers)
   - [Interactive Maps](#interactive-maps)
+- [Tier Lists](#tier-lists)
+- [Trading](#trading)
+- [Youtube Channels](#youtube-channels)
 - [Contribute](#contribute)
 
 ## Official Links
@@ -62,7 +65,7 @@
 - [Event Tracker](https://diablo4.life/trackers/overview) - Diablo4.life Event Tracker helps to identify which event is currently active and when the next event will start.
 - [Helltides Event Tracker](https://helltides.com/) - Helltides Event Tracker helps to identify which event is currently active and when the next event will start.
 
-## Interactive Maps
+### Interactive Maps
 - [D4 Builds Interactive Map](https://d4builds.gg/map/) - D4 Builds Interactive Map
 - [Map Genie Interactive Map](https://mapgenie.io/diablo-4/maps/sanctuary) - Map Genie Interactive Map
 - [D4 Planner Interactive Map](https://d4planner.io/map) - D4 Planner Interactive Map
@@ -71,6 +74,10 @@
 
 ## Tier Lists
 - [Nightmare Dungeon Tier List](https://docs.google.com/spreadsheets/u/1/d/143tXzN_7-yoQCy7QEjo924UT2kWqH1VhWyXEsOvlwgA/htmlview?usp=sharing) - @wudijo Nightmare Dungeon Tier List
+
+## Trading
+- [Diablo 4 Marketplace](https://diablotrade.gg/) - Site to browse and post listings for items, turns screenshots into listings
+- [Sanctuary - Diablo 4 Community Discord](https://discord.gg/diablo4#discord) - Sections for softcore and hardcore trading
 
 ## Youtube Channels
 - [Wudijo](https://www.youtube.com/@wudijo) - Wudijo Youtube Channel
