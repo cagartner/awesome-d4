@@ -72,6 +72,7 @@
 
 ### Overlays
 - [Diablo 4 Companion](https://github.com/josdemmers/Diablo4Companion) - Specify your prefered affixes for each gear slot and monitor them in game
+- [Diablo QoL](https://r.nf/r/diablo_qol) - Duplicate Aspect counter and filter dropdown for stash & inventory
 - [Diablo Dungeon Timer](https://github.com/Shaydera/DiabloDungeonTimer) - Software which automatically tracks and times all dungeons entered in Diablo IV
 
 ## Tier Lists
