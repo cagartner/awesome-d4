@@ -61,6 +61,7 @@
 ### Item Databases
 - [Gambling Aspect](https://diablo4.life/tools/gambling) - Diablo4.life Gambling Aspect helps to identify which item you should target at The Purveyor of Curiosities to get the best possible odds at getting the legendary aspect you are looking for.
 - [Unique Target Farming](https://diablo4.life/tools/target-farming) - Diablo4.life Unique Target Farming helps to identify which monster you should target to get the best possible odds at getting the legendary item you are looking for.
+- [Aspects Tracker](https://d4aspects.com/) -  Track all of your aspects in a single place.
 
 ### Event Trackers
 - [Event Tracker](https://diablo4.life/trackers/overview) - Diablo4.life Event Tracker helps to identify which event is currently active and when the next event will start.
