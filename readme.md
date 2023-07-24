@@ -44,6 +44,10 @@
 
 ## Tools
 
+### Profile and Leaderboard Trackers
+- [D4 Armory](https://d4armory.io/) - Unofficial leaderboard and character profile lookup tool
+- [Diablo 4 Armory Fetcher](https://github.com/ryancollingwood/diablo_4_armory_fetcher) - Fetch and store your character profiles using [D4 Armory](https://d4armory.io/) and Github Actions
+
 ### Build Planners
 - [D4 Build Planner](https://d4builds.gg/my-builds/) - D4 Build Planner
 - [Maxroll Item Planner](https://maxroll.gg/d4/planner) - Maxroll Item Planner
