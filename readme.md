@@ -41,6 +41,7 @@
 - [Pure Diablo 4 Wiki](https://diablo4.purediablo.com/Diablo_4_Wiki) - Pure Diablo 4 Wiki build guides
 - [Mobalytics](https://app.mobalytics.gg/diablo-4/builds) - Mobalytics build guides
 - [Diablo4.life Builds](https://diablo4.life/builds/starter-builds) - Diablo4.life build guides
+- [Diablo4 Chronicles](https://diablo4.cc/us) - Diablo 4 Wiki
 
 ## Tools
 
