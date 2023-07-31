@@ -73,6 +73,7 @@
 - [Helltides Event Tracker](https://helltides.com/) - Helltides Event Tracker helps to identify which event is currently active and when the next event will start.
 
 ### Interactive Maps
+- [Diablo 4 Map](https://diablo4.th.gl/) - Diablo 4 Map with custom routes
 - [D4 Builds Interactive Map](https://d4builds.gg/map/) - D4 Builds Interactive Map
 - [Map Genie Interactive Map](https://mapgenie.io/diablo-4/maps/sanctuary) - Map Genie Interactive Map
 - [D4 Planner Interactive Map](https://d4planner.io/map) - D4 Planner Interactive Map
@@ -80,6 +81,7 @@
 - [Diablo Fans Interactive Map](https://www.diablofans.com/zones/d4/1-sanctuary) - Diablo Fans Interactive Map
 
 ### Overlays
+- [Diablo 4 Map](https://www.overwolf.com/app/Leon_Machens-Diablo_4_Map) - Diablo 4 Map with player position and transparent overlay
 - [Diablo 4 Companion](https://github.com/josdemmers/Diablo4Companion) - Specify your prefered affixes for each gear slot and monitor them in game
 - [Diablo QoL](https://r.nf/r/diablo_qol) - Duplicate Aspect counter and filter dropdown for stash & inventory
 - [Diablo Dungeon Timer](https://github.com/Shaydera/DiabloDungeonTimer) - Software which automatically tracks and times all dungeons entered in Diablo IV
