@@ -85,6 +85,7 @@
 - [Diablo 4 Companion](https://github.com/josdemmers/Diablo4Companion) - Specify your prefered affixes for each gear slot and monitor them in game
 - [Diablo QoL](https://r.nf/r/diablo_qol) - Duplicate Aspect counter and filter dropdown for stash & inventory
 - [Diablo Dungeon Timer](https://github.com/Shaydera/DiabloDungeonTimer) - Software which automatically tracks and times all dungeons entered in Diablo IV
+- [RiftSight](https://d4builds.ai/en/tools/) - Diablo IV game overlay with live Helltide tracking and interactive zone maps.
 
 ## Tier Lists
 - [Nightmare Dungeon Tier List](https://docs.google.com/spreadsheets/u/1/d/143tXzN_7-yoQCy7QEjo924UT2kWqH1VhWyXEsOvlwgA/htmlview?usp=sharing) - @wudijo Nightmare Dungeon Tier List
