@@ -19,6 +19,7 @@
   - [Event Trackers](#event-trackers)
   - [Interactive Maps](#interactive-maps)
   - [Overlays](#overlays)
+  - [Loot Filters](#loot-filters)
 - [Tier Lists](#tier-lists)
 - [Trading](#trading)
 - [Youtube Channels](#youtube-channels)
@@ -30,7 +31,7 @@
 - [Official Forum](https://us.forums.blizzard.com/en/d4/)
 - [Bug Report](https://us.forums.blizzard.com/en/d4/c/bug-report)
 - [Blizz Tracker](https://us.forums.blizzard.com/en/d4/g/blizzard-tracker/activity/posts?category_id=7)
-- [Patch Notes](https://news.blizzard.com/en-us/diablo4/23964909/diablo-iv-patch-notes)
+- [Patch Notes & News](https://news.blizzard.com/en-us/feed/diablo-4)
 
 ## Builds and guides
 
@@ -39,34 +40,32 @@
 - [Icy Veins](https://www.icy-veins.com/d4/) - Icy Veins build guides
 - [Diablo 4 Wiki](https://diablo4.wiki.fextralife.com/Builds) - Diablo 4 Wiki build guides
 - [Pure Diablo 4 Wiki](https://diablo4.purediablo.com/Diablo_4_Wiki) - Pure Diablo 4 Wiki build guides
-- [Mobalytics](https://app.mobalytics.gg/diablo-4/builds) - Mobalytics build guides
-- [Diablo4.life Builds](https://diablo4.life/builds/starter-builds) - Diablo4.life build guides
-- [Diablo4 Chronicles](https://diablo4.cc/us) - Diablo 4 Wiki
+- [Mobalytics](https://mobalytics.gg/diablo-4/builds) - Mobalytics build guides
+- [Diablo4.life](https://diablo4.life/) - Diablo4.life build guides
+- [InfinityBuilds](https://infinitybuilds.gg/en) - Builds by top Pit pushers (INF team)
+- [D4Guides](https://d4guides.gg/en/builds) - Community builds with a dated tier list
 
 ## Tools
-
-### Profile and Leaderboard Trackers
-- [D4 Armory](https://d4armory.io/) - Unofficial leaderboard and character profile lookup tool
-- [Diablo 4 Armory Fetcher](https://github.com/ryancollingwood/diablo_4_armory_fetcher) - Fetch and store your character profiles using [D4 Armory](https://d4armory.io/) and Github Actions
 
 ### Build Planners
 - [D4 Build Planner](https://d4builds.gg/my-builds/) - D4 Build Planner
 - [Maxroll Item Planner](https://maxroll.gg/d4/planner) - Maxroll Item Planner
-- [Mobalytics Build Planner](https://app.mobalytics.gg/diablo-4/build-planner) - Mobalytics Build Planner
+- [Mobalytics Build Planner](https://mobalytics.gg/diablo-4/build-planner) - Mobalytics Build Planner
+- [InfinityTools Planner](https://tools.infinitybuilds.gg/en) - Skill, Paragon and gear planner with live stat computation
+- [D4Guides Build Planner](https://d4guides.gg/en/build-planner) - Full character planner including seasonal systems
+- [OP.GG Build Planner](https://op.gg/diablo4) - Build, skill tree and Paragon planners
 
 ### Skill Trees
-- [Skill Trees](https://d4builds.gg/skill-trees/) - D4Build.gg Skill Trees
-- [Skill Calculator](https://maxroll.gg/d4/skill-calculator) - Maxroll Skill Calculator
 - [D4 Planner Skill Tree](https://d4planner.io/skilltree/Barbarian/) - D4 Planner Skill Tree
 
 ### Damage Calculators
-- [Damage Calculator](https://www.d4ut.net/) - D4UT Damage Calculator, helps to forecast your damage after all the multipliers
+- [D4 Calculators](https://bytemind-de.github.io/apps/d4/) - Open-source damage and defense calculators
+- [InfinityTools Damage Calculator](https://tools.infinitybuilds.gg/en/damage) - Expected skill damage and setup comparison
 - [Damage Calculator Spreadsheet](https://docs.google.com/spreadsheets/d/1jDhNqYytNyoSChNIMp5YIBIDUrxrOMPWVVANJQDTPBU/edit#gid=1662451896) - Damage Calculator Spreadsheet (pt-BR)
 
 ### Item Databases
-- [Gambling Aspect](https://diablo4.life/tools/gambling) - Diablo4.life Gambling Aspect helps to identify which item you should target at The Purveyor of Curiosities to get the best possible odds at getting the legendary aspect you are looking for.
-- [Unique Target Farming](https://diablo4.life/tools/target-farming) - Diablo4.life Unique Target Farming helps to identify which monster you should target to get the best possible odds at getting the legendary item you are looking for.
-- [Aspects Tracker](https://d4aspects.com/) -  Track all of your aspects in a single place.
+- [InfinityTools Database](https://tools.infinitybuilds.gg/en/database) - Uniques, aspects, affixes, Horadric Cube recipes and boss loot tables
+- [DiabloFilter Uniques](https://diablofilter.com/uniques) - Every Unique and Mythic with drop sources
 
 ### Event Trackers
 - [Event Tracker](https://diablo4.life/trackers/overview) - Diablo4.life Event Tracker helps to identify which event is currently active and when the next event will start.
@@ -83,15 +82,26 @@
 ### Overlays
 - [Diablo 4 Map](https://www.overwolf.com/app/Leon_Machens-Diablo_4_Map) - Diablo 4 Map with player position and transparent overlay
 - [Diablo 4 Companion](https://github.com/josdemmers/Diablo4Companion) - Specify your prefered affixes for each gear slot and monitor them in game
-- [Diablo QoL](https://r.nf/r/diablo_qol) - Duplicate Aspect counter and filter dropdown for stash & inventory
 - [Diablo Dungeon Timer](https://github.com/Shaydera/DiabloDungeonTimer) - Software which automatically tracks and times all dungeons entered in Diablo IV
 - [HawkOVR](https://d4builds.ai/) - Free configurable Diablo IV companion overlay with event timers and Helltide worm/chest markers.
 
+### Loot Filters
+- [D4 Filter Forge](https://d4filterforge.com/) - Browser editor for the in-game loot filter import codes, with live preview
+- [D4Filter](https://d4filter.live/) - Build loot filters from a build guide, browse public filters
+- [DiabloFilter](https://diablofilter.com/) - Community loot filter hub and code decoder
+- [D4 Loot Filter Viewer](https://www.d4lootfilter.com/) - Decode any filter code into readable rules (useful on console, which can't import codes)
+
 ## Tier Lists
+- [Maxroll Tier Lists](https://maxroll.gg/d4/tierlists/endgame-tier-list) - Endgame, bossing, push, speedfarm and leveling tier lists
+- [Mobalytics Tier List](https://mobalytics.gg/diablo-4/tier-list) - Endgame tier list by Mobalytics experts and creators
+- [InfinityBuilds Tier List](https://infinitybuilds.gg/en/tier-list/endgame) - Endgame tier list by top Pit pushers
+- [D4Builds Tier List](https://d4builds.gg/tierlist/) - Endgame tier list
+- [Icy Veins Tier List](https://www.icy-veins.com/d4/guides/endgame-tier-list/) - Endgame push tier list
+- [OP.GG Tier List](https://op.gg/diablo4/tier-list) - Leveling, endgame, Pit and Tower tiers
 - [Nightmare Dungeon Tier List](https://docs.google.com/spreadsheets/u/1/d/143tXzN_7-yoQCy7QEjo924UT2kWqH1VhWyXEsOvlwgA/htmlview?usp=sharing) - @wudijo Nightmare Dungeon Tier List
 
 ## Trading
-- [Diablo 4 Marketplace](https://diablotrade.gg/) - Site to browse and post listings for items, turns screenshots into listings
+- [diablo.trade](https://diablo.trade/) - Item trading marketplace
 - [Sanctuary - Diablo 4 Community Discord](https://discord.gg/diablo4#discord) - Sections for softcore and hardcore trading
 
 ## Youtube Channels
@@ -105,6 +115,10 @@
 - [Kripparrian](https://www.youtube.com/@Kripparrian) - Kripparrian Youtube Channel
 - [echohack](https://www.youtube.com/@echohack) - echohack Youtube Channel
 - [vigiabr](https://www.youtube.com/@vigiabr) - Jogatinas Saudáveis Youtube Channel
+- [Rob2628](https://www.youtube.com/@rob2628) - Rob2628 Youtube Channel
+- [Mekuna](https://www.youtube.com/@Mekuna7) - Mekuna Youtube Channel
+- [MacroBioBoi](https://www.youtube.com/@MacroBioBoi) - MacroBioBoi Youtube Channel
+- [Cliptis](https://www.youtube.com/@Cliptis86) - Cliptis Youtube Channel
 
 ## Contribute
 
